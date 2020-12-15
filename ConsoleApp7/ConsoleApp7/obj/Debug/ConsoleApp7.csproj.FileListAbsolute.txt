@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Soma\Documents\C#2\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
